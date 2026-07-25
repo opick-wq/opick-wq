@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building [AssetFlow Enterprise] - A Fullstack IT Asset & Network Management Dashboard using Golang (Gin) & Supabase.<br><br>🌱 I’m currently mastering Golang, System Architecture, and RESTful APIs.<br><br>💼 My background: Junior Network Administrator (BNSP) & Programming Teaching Assistant at STT Terpadu Nurul Fikri.<br><br>🤝 I’m looking to collaborate on Open Source projects or Backend Engineering roles.<br><br>⚡ Fun fact: I run on coffee, love writing clean code, and I really like Bananas 🍌!
+🔭 I’m currently building [AssetFlow Enterprise] - A Fullstack IT Asset & Network Management Dashboard using Golang (Gin) & Supabase.<br><br>🌱 I’m currently mastering Golang, System Architecture, and RESTful APIs.<br><br>💼 My background: Junior Network Administrator (BNSP) & Programming Teaching Assistant at STT Terpadu Nurul Fikri.<br><br>🤝 I’m looking to collaborate on Open Source projects or Backend Engineering roles.
 
 
 ## 🌐 Socials:
